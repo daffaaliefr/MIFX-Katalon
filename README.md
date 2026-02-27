@@ -1,2 +1,11 @@
-# MIFX-Katalon
-MIFX Katalon Test
+# READ ME
+Before using this project, ensure you have:
+✅ Latest version of Katalon Studio
+✅ Git installed
+✅ Required browser drivers (Chrome, Edge, etc.)
+
+How to set up the automation project
+1. Clone the Repository
+2. Open Katalon Studio
+3. Click Open Project
+4. Select the cloned project folder
