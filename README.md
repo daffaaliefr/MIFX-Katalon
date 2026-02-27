@@ -1,4 +1,6 @@
 # READ ME
+
+KATALON STUDIO 
 Before using this project, ensure you have:
 1. Latest version of Katalon Studio
 2. Git installed
