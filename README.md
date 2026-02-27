@@ -1,8 +1,8 @@
 # READ ME
 Before using this project, ensure you have:
-✅ Latest version of Katalon Studio
-✅ Git installed
-✅ Required browser drivers (Chrome, Edge, etc.)
+1. Latest version of Katalon Studio
+2. Git installed
+3. Required browser drivers (Chrome, Edge, etc.)
 
 How to set up the automation project
 1. Clone the Repository
