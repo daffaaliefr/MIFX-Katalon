@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with valid input</description>
+   <name>TC_FIMX_01_001</name>
+   <tag>TC_FIMX_01</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b162ef9b-b854-4eed-9d27-4b54bb3dbaca</testCaseGuid>
+</TestCaseEntity>

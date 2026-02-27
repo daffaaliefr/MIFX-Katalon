@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User left the username field blank but input the password field</description>
+   <name>TC_FIMX_01_004</name>
+   <tag>TC_FIMX_01</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6681f927-3088-4b43-9ee1-f1036eb44b06</testCaseGuid>
+</TestCaseEntity>

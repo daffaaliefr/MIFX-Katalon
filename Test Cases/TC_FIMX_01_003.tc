@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User input invalid username but valid password</description>
+   <name>TC_FIMX_01_003</name>
+   <tag>TC_FIMX_01</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48eef24f-5fc6-4c3f-aa7f-f867e6a16772</testCaseGuid>
+</TestCaseEntity>

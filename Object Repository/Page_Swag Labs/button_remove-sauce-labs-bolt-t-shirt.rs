@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_remove-sauce-labs-bolt-t-shirt</name>
+   <tag></tag>
+   <elementGuidId>9a5b8f32-b97a-4265-99cb-5e0229217b14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-test=&quot;remove-sauce-labs-bolt-t-shirt&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-test = 'remove-sauce-labs-bolt-t-shirt']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'remove-sauce-labs-bolt-t-shirt' and @name = 'remove-sauce-labs-bolt-t-shirt' and (text() = 'Remove' or . = 'Remove')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>458d77d8-e13e-4082-8a8f-832b598c3af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn_secondary btn_small btn_inventory </value>
+      <webElementGuid>9a9b3246-06e8-4979-bb99-c7f7359f4438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>remove-sauce-labs-bolt-t-shirt</value>
+      <webElementGuid>22ba9388-2506-45f6-bcfe-1b84a4146853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>remove-sauce-labs-bolt-t-shirt</value>
+      <webElementGuid>e2f9dfb7-f087-4a11-b37f-726beec10cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>remove-sauce-labs-bolt-t-shirt</value>
+      <webElementGuid>0cd43e6c-8e96-4df2-ad8e-0c94ca39bcd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>29a4740c-ee03-4a39-856d-f00893362eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0a99d8a8c7f4f38fcd1d50ca7164b4d1</value>
+      <webElementGuid>38464316-c471-44a3-b161-25904f5fc3bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'remove-sauce-labs-bolt-t-shirt']</value>
+      <webElementGuid>50968b1a-0341-4a53-a6ea-49d852871750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'remove-sauce-labs-bolt-t-shirt']</value>
+      <webElementGuid>373cb5bc-8f03-47d8-80c9-84687880d687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'remove-sauce-labs-bolt-t-shirt' and @name = 'remove-sauce-labs-bolt-t-shirt' and (text() = 'Remove' or . = 'Remove')]</value>
+      <webElementGuid>a24260f4-9d15-4001-9d07-30bbc42361e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
